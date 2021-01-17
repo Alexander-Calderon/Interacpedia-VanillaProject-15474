@@ -1,1 +1,1 @@
-# Interacpedia-Project---15474
+# Interacpedia-VanillaProject-15474
